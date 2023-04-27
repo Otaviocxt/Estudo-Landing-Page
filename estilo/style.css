@@ -58,6 +58,8 @@ input{
     border: none;
     font-size: 15px;
 
+
+    
 }
 form [type="submit"]
 {
@@ -90,7 +92,7 @@ main{
     margin-top: 50px;
 }
 h2{
-    font-size: 56px;
+    font-size: 3.5rem;
     line-height: 10px;
     font-family: poppinsregular;
 }
